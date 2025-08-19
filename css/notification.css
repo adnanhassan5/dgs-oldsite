@@ -1,0 +1,120 @@
+.glyphicon {
+    margin-right: 4px !important;
+    /*override*/
+}
+
+.pagination .glyphicon {
+    margin-right: 0px !important;
+    /*override*/
+}
+
+.pagination a {
+    color: #fff;
+    padding: 4px;
+}
+
+.panel ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+.news-item {
+    padding: 9px 4px;
+    margin: 0px;
+    border-bottom: 1px dotted #555;
+}
+
+#jquery-script-menu {
+    position: fixed;
+    height: 90px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border-top: 5px solid #316594;
+    background: #fff;
+    -moz-box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+    -webkit-box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+    box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.16);
+    z-index: 999999;
+    padding: 10px 0;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.jquery-script-center {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.jquery-script-center ul {
+    width: 212px;
+    float: left;
+    line-height: 45px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.jquery-script-center a {
+    text-decoration: none;
+}
+
+.jquery-script-ads {
+    width: 728px;
+    height: 90px;
+    float: right;
+}
+
+.jquery-script-clear {
+    clear: both;
+    height: 0;
+}
+
+.panel {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.notification {
+    position: absolute;
+    z-index: 8;
+    left: 955px;
+    top: 500px;
+}
+
+.notification i {
+    color: #ed2a28;
+}
+
+.notification ul li i {
+    padding-right: 10px;
+}
+
+.notification ul li a {
+    display: block;
+    color: #ff0000;
+}
+
+.panel-heading {
+    background-color: #1a6bad !important;
+    color: #fff !important;
+    padding: 4px 23px;
+    border-radius: 0px !important;
+}
+
+.panel-body {
+    background: #ffffff none repeat scroll 0 0;
+    /* border: 2px solid #1a6bad;
+    padding: 7px 26px !important; */
+}
+
+.panel-footer {
+    background-color: #b9473b !important;
+    border: 1px solid #b9473b !important;
+    padding: 3px 15px !important;
+    border-radius:0
+}
+.ht-340{
+    height:340px !important;
+}
